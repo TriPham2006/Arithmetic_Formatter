@@ -1,3 +1,6 @@
+# Time_Calculator
+Python Project (problem provided by freeCodeCamp.org - from Scientific Computing with Python course)
+
 **Arithmetic Formatter**
 Arithmetic Formatter is a Python function that arranges simple addition and subtraction problems into a clean vertical format. It follows strict formatting and validation rules, similar to how math problems are written in school. You can also choose to show or hide the answers.
 
