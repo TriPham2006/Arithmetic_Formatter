@@ -1,4 +1,4 @@
-# Arithmetic_Formatter#
+# Arithmetic_Formatter #
 Python Project (problem provided by freeCodeCamp.org - from Scientific Computing with Python course)
 
 **Arithmetic Formatter**
